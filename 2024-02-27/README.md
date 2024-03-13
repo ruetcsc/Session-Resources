@@ -21,9 +21,9 @@ Host: Mostain Rishad
 
 1. Shahariar Amin Walid
 
-[Resources](./rcsc.pdf)
+   [Resources](./rcsc.pdf)
 
-2. M. M. Jubyer Ahmed Shezan
-
-[Resources](./Cybersecurity-awareness.pdf)
+2. Jubyer Ahmed Shezan
+   
+   [Resources](./Cybersecurity-awareness.pdf)
 
